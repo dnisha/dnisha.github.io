@@ -1,7 +1,7 @@
 ---
 title: "Step Functions"
-date: "2024-03-23"
-category: [aws]
+date: 2024-03-23 00:00:00 +0800
+categories: [aws]
 tags: [aws]
 ---
 
