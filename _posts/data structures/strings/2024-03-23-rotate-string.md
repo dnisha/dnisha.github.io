@@ -5,9 +5,8 @@ categories: [dsa, string]
 tags: [dsa, string]
 ---
 
-## Remove characters from the first string which are present in the second string
-- Ref link1 - https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/
-- Ref link2 - https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/
+[RefLink](https://www.geeksforgeeks.org/remove-characters-from-the-first-string-which-are-present-in-the-second-string/)
+
 
 ## Sudo Code 1
 ```
