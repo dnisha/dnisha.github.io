@@ -42,3 +42,13 @@ high volumes of high velocity data from a variety of sources in real time
 
 - HTTP/2 to allow <100 ms deliverv
 - Enhanced Fan-out allows for multiple consumers, each at 2MB/second independently.
+
+## When to use standard consumers:
+
+- Total number of consuming applications is low (<3)
+- Consumers are not latency-sensitive
+- Minimize cost
+
+## When to use enhanced fan-out consumers:
+- Multiple consumer applications for the same Kinesis Data Stream. Default limit of five registered consuming applications. More can be supported with a service limit increase request
+- Low-latency requirements for data processing .Messages are typically delivered to a consumer in less than 70 ms
