@@ -1,6 +1,6 @@
 ---
 title: "Partitioning & Sharing in DBMS (DB Optimisation)"
-date: 2024-03-28 13:25:00 +0530
+date: 2024-03-27 13:25:00 0530
 categories: [database]
 tags: [database]
 ---
